@@ -1,0 +1,16 @@
+<div id="main-navigation_b1m">
+      <div id="mainnav_wrapper">
+        <h1 class="hidden weiss"><a name="Hauptnavigation" id="Hauptnavigation"></a>Hauptnavigation</h1>
+        <ul>
+          <li class="main-active_b1m">Lesen</li>
+          <li><a href="hoeren.php">Hören</a></li>
+          <li><a href="schreiben.php">Schreiben</a></li>
+          <li><a href="sprechen.php">Sprechen</a></li>
+        </ul>
+      </div>
+    </div>
+	
+            <p class="right bildgr margin_right_10pro margin_top_negativ">aus einer deutschen Zeitung</p>
+
+alternativ tooltip
+<abbr class="explain" title="Schweizer Standard für “Fahrrad”">Velo</abbr>” 
